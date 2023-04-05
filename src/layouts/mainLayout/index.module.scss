@@ -1,0 +1,14 @@
+.MainLayout {
+  section {
+    margin: 80px 20px;
+  }
+}
+
+@media screen and (min-width: "768px") {
+  .MainLayout {
+    section {
+      width: 70%;
+      margin: 90px auto 50px auto;
+    }
+  }
+}
