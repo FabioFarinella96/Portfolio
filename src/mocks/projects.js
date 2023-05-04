@@ -19,12 +19,18 @@ const projects = [
   },
   {
     id: 4,
+    title: "BuyAndRent",
+    image: "./img/desktop.png",
+    url: "https://buy-and-rent.vercel.app/",
+  },
+  {
+    id: 5,
     title: "Top countries",
     image: "./img/top-countries.png",
     url: "https://code-week-project.vercel.app/index.html",
   },
   {
-    id: 5,
+    id: 6,
     title: "FakeFlix",
     image: "./img/fake-flix.png",
     url: "https://fake-flix-rosy.vercel.app/",
