@@ -13,7 +13,7 @@ const Projects = () => {
     <div className={styles.Projects}>
       <div>
         <h3 className={styles.subtitle}>
-          Rotate the cube to view the projects
+          Rotate the cube to watch the projects
         </h3>
         <Swiper
           effect={"cube"}
